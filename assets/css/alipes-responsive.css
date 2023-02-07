@@ -1208,6 +1208,17 @@
         padding: 286px 0 183px;
     }
 
+    .about-one__img img{
+        height: auto;
+    }
+
+    .about-building__img img{
+        height: auto;
+    }
+
+    #footer-contact {
+        justify-content: initial;
+    }
 
 
 
